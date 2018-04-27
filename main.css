@@ -73,6 +73,19 @@ body {
   padding: 0;
 }
 
+#quit-description {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+	url(assets/winfieldsunset.jpg);
+  background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  color: white;
+  padding: 0;
+}
+
+
+
 #free-tips {
  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
 	url(assets/winfieldsunset.jpg);
