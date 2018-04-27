@@ -64,7 +64,7 @@ body {
 
 #weight-description {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-	url(assets/ashim.jpg);
+	url(assets/blue-sky.jpg);
   background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -103,7 +103,7 @@ body {
 .section-dark {
     /* background-color: #cccccc; */
     background-color: #3185fc;
-    padding: 2rem;
+    padding: 0rem;
 }
 
 .section-blue {
@@ -223,6 +223,10 @@ body {
     }
 } 
 
+.w-60 {
+  width: 60% !important;
+}
+
 @keyframes moveInBottom {
     0% {
         opacity: 0;
@@ -247,7 +251,7 @@ body {
     text-shadow: 2px 2px #999;
 }
 .coolStuffWrapper {
-    margin-top: 20px;
+    margin-top: 0;
 }
 
 button.coolStuffBtn {
@@ -267,7 +271,7 @@ h5.modal-title {
 }
 
 .ceo-text {
-  font-size: 1;
+  font-size: 5;
 }
 
 .imgCenter {
